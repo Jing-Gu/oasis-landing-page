@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Amiri|Montserrat:300,700&display=swap");
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: $ff-primary;
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 2.1rem; //34px
+}
+
+h3 {
+  font-family: $ff-sec;
+  font-size: 42px;
+}
+
+html,
+body {
+  font-family: $ff-primary;
+}
+
+p {
+  line-height: 1.6;
+}
